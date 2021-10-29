@@ -17,4 +17,6 @@
 #
 
 PRODUCT_MAKEFILES := \
-     $(LOCAL_DIR)/twrp_RMX3031.mk
+     $(LOCAL_DIR)/omni_RMX3031.mk
+
+COMMON_LUNCH_CHOICES := omni_RMX3031-eng
