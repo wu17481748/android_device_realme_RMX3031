@@ -31,7 +31,7 @@ $(call inherit-product, device/realme/RMX3031/device.mk)
 $(call inherit-product, vendor/pb/config/common.mk)
 
 PRODUCT_DEVICE := RMX3031
-PRODUCT_NAME := omni_RMX3031
+PRODUCT_NAME := twrp_RMX3031
 PRODUCT_BRAND := Realme
 PRODUCT_MODEL := X7 Max
 PRODUCT_MANUFACTURER := Realme
